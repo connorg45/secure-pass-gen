@@ -22,6 +22,6 @@ Please refer to the LICENSE in the repo.
 
 # Links
 
-[Deployed Website](https://connorg45.github.io/portfolio-landing-page/)
+[Deployed Website](https://connorg45.github.io/secure-pass-gen/)
 
 [Github Repo](https://github.com/connorg45/secure-pass-gen)
