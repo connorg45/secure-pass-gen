@@ -2,15 +2,7 @@
 
 ## Description
 
-Created a fully secure password generator perfect for improving the strength of your passwords.
-
-## Installation
-
-N/A
-
-## Credits
-
-N/A
+Created a fully secure password generator perfect for improving the strength of your passwords. Added prompts for user to customize the passwords character types and length.
 
 ## License
 
